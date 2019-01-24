@@ -1,6 +1,6 @@
 # TRC-20 TOKEN
 
-# tron-contracts
+# tron-contract
 
 Configured with [TronBox](https://github.com/tronprotocol/tron-box).
 
